@@ -31,13 +31,11 @@
       "url": "api-reference"
     }
   ],
-  "analytics": {
-    "scripts": [
-      {
-          "src": "/gurubase.js"
-        }
-      ]
-    },
+  "scripts": [
+    {
+      "src": "/gurubase.js"
+    }
+  ],
   "anchors": [
     {
       "name": "Documentation",
